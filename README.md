@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Killian✨🦝</h1>
+<svg ref="https://readme-typing-svg.herokuapp.com/?color=98FB98&size=25&center=true&vCenter=true&width=1000&lines=Hello+world,+I%27m+Killian!+%E2%9C%A8%F0%9F%A6%9D"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" weight="60">killiandomingues57@gmail.com
