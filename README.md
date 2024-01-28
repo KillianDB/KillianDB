@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Killian✨🦝</h1>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">**killiandomingues57@gmail.com**
+<p align="left" weight="60">killiandomingues57@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
