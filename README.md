@@ -1,4 +1,4 @@
-<div align-items="center">
+<div align-items="center" width="100%">
   <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=25&center=true&vCenter=true&width=1000&lines=Hello+world,+I%27m+Killian!+%E2%9C%A8%F0%9F%A6%9D"/>
 
 <p><a href="mailto:killiandatabase@gmail.com?subject=Hello,%20Killian&body=I'm%20coming%20from%20github!" color="white" text-decoration="none" font-weight="bold">Contact me</a> for freelance projects</p>
