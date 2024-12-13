@@ -8,11 +8,11 @@
 <p align="center"> 
 <!--   c# -->
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/C_Sharp_logo.svg" alt="c#" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="c#" width="40" height="40"/>
   </a>
 <!--   .net -->
   <a href="https://www.geeksforgeeks.org/introduction-to-net-framework/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/.NET_logo.svg" alt=".net" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-tile.svg" alt=".net" width="40" height="40"/>
   </a>
 <!--   typescript -->
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
@@ -44,7 +44,7 @@
   </a> 
 <!--   docker -->
      <a href="https://docs.docker.com/" target="_blank" rel="noreferrer"> 
-       <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Docker_%28container_engine%29_logo.svg" alt="docker" width="40" height="40"/> 
+       <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> 
      </a>  
 </p>
 
