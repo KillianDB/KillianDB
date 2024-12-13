@@ -49,7 +49,7 @@
 </p>
 
 
-<p>
+<p align="center">
 <a href="#"><img height="100%" width="80%" alt="snake" src="github-user-contribution (6).svg"></a> 
 </a>
 </p>
