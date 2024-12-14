@@ -3,9 +3,10 @@
 
 <p align="center">
   <details>
-  <a href="mailto:killiandatabase@gmail.com?subject=Hello,%20Killian&body=I'm%20coming%20from%20github!" style="text-decoration: none;color:white;font-weight:bold;">Contact me</a>
+    <summary><a href="mailto:killiandatabase@gmail.com?subject=Hello,%20Killian&body=I'm%20coming%20from%20github!" style="text-decoration: none;color:white;font-weight:bold;">Contact me</a></summary>
     <p>email aqui</p>
-  </details> for freelance projects</p>
+  </details> for freelance projects
+</p>
   
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
