@@ -1,6 +1,7 @@
 <div align-items="center" width="100%">
   <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=25&center=true&vCenter=true&width=1000&lines=Hello+world,+I%27m+Killian!+%E2%9C%A8%F0%9F%A6%9D"/>
 
+<div display="flex" flex-direction="row">
 <p align="center">
   <details style="display: inline-block;">
     <summary>Contact me</summary> 
@@ -8,6 +9,7 @@
   </details> 
    <span style="display: inline-block;">for freelance projects</span>
 </p>
+</div>
   
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
