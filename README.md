@@ -2,16 +2,18 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=25&center=true&vCenter=true&width=1000&lines=Hello+world,+I%27m+Killian!+%E2%9C%A8%F0%9F%A6%9D"/>
 
   <div style="display: flex; justify-content: center; align-items: center;">
-    <details style="width: fit-content; margin-right: 10px;">
+    <details style="width: fit-content; margin-right: 3px;">
       <summary>Contact me</summary> 
+      <div>
       <a href="mailto:killiandatabase@gmail.com?subject=Hello,%20Killian&body=I'm%20coming%20from%20github!" style="display: block; margin-top: 5px;">E-mail</a>
       <a href="https://www.linkedin.com/in/killiandb/" style="display: block; margin-top: 5px;">Linkedin</a>
+      </div>
     </details> 
     <p style="margin: 0;">for freelance projects</p>
   </div>
 
-  <h3>Languages and Tools:</h3>
-  <p> 
+  <h3 align="center" width="100%">Languages and Tools:</h3>
+  <p align="center" width="100%"> 
     <!-- C# -->
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
       <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="c#" width="40" height="40"/>
