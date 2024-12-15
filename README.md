@@ -1,4 +1,4 @@
-<div style="text-align: center; width: 100%;">
+<div style="text-align: center; width: 100%; display: flex; flex-direction: column; align-items: center;">
   <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=25&center=true&vCenter=true&width=1000&lines=Hello+world,+I%27m+Killian!+%E2%9C%A8%F0%9F%A6%9D"/>
 
   <div style="display: flex; justify-content: center; align-items: center;">
