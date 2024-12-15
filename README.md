@@ -1,10 +1,13 @@
 <div align-items="center"width="100%">
   <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=25&center=true&vCenter=true&width=1000&lines=Hello+world,+I%27m+Killian!+%E2%9C%A8%F0%9F%A6%9D"/>
 
-  <details align="center" display="block">
+  <details align="center">
     <summary>Contact me for freelance projects</summary> 
-    <a href="mailto:killiandatabase@gmail.com?subject=Hello,%20Killian&body=I'm%20coming%20from%20github!">E-mail</a>
-    <a href="https://www.linkedin.com/in/killiandb/">Linkedin</a>
+    <div>
+    <a href="mailto:killiandatabase@gmail.com?subject=Hello,%20Killian&body=I'm%20coming%20from%20github!" style="display: block; margin-bottom: 8px;">Send me an e-mail</a>
+    or 
+    <a href="https://www.linkedin.com/in/killiandb/" style="display: block;">Connect with me on LinkedIn</a>
+  </div>
   </details>
   
 <h3 align="center">Languages and Tools:</h3>
