@@ -3,11 +3,11 @@
 
 <section display="flex">
   <details display="inline-block" width="fit-content" margin-right="3px">
-    <summary>Contact me</summary> 
+    <summary width="fit-content">Contact me</summary> 
     <a href="mailto:killiandatabase@gmail.com?subject=Hello,%20Killian&body=I'm%20coming%20from%20github!">E-mail</a>
     <a href="https://www.linkedin.com/in/killiandb/">Linkedin</a>
   </details> 
-   <p display="inline-block">for freelance projects</p>
+   <p display="inline-block" width="fit-content">for freelance projects</p>
 </section>
   
 <h3 align="center">Languages and Tools:</h3>
