@@ -2,12 +2,12 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=25&center=true&vCenter=true&width=1000&lines=Hello+world,+I%27m+Killian!+%E2%9C%A8%F0%9F%A6%9D"/>
 
 <section display="flex">
-  <details style="display: inline-block;">
+  <details display="inline-block;">
     <summary>Contact me</summary> 
     <a href="mailto:killiandatabase@gmail.com?subject=Hello,%20Killian&body=I'm%20coming%20from%20github!">E-mail</a>
     <a href="https://www.linkedin.com/in/killiandb/">Linkedin</a>
   </details> 
-   <p style="display: inline-block;">for freelance projects</p>
+   <p display="inline-block;">for freelance projects</p>
 </section>
   
 <h3 align="center">Languages and Tools:</h3>
