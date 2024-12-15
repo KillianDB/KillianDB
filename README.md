@@ -1,14 +1,14 @@
 <div align-items="center" width="100%">
   <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=25&center=true&vCenter=true&width=1000&lines=Hello+world,+I%27m+Killian!+%E2%9C%A8%F0%9F%A6%9D"/>
 
-<section display="flex">
-  <details display="inline-block" width="fit-content" margin-right="3px">
-    <summary style="width:fit-content">Contact me</summary> 
-    <a href="mailto:killiandatabase@gmail.com?subject=Hello,%20Killian&body=I'm%20coming%20from%20github!">E-mail</a>
-    <a href="https://www.linkedin.com/in/killiandb/">Linkedin</a>
-  </details> 
-   <p display="inline-block" width="fit-content">for freelance projects</p>
-</section>
+<section style="display: inline-flex; align-items: center;">
+    <details style="width: fit-content; margin-right: 3px;">
+      <summary style="width: fit-content;">Contact me</summary> 
+      <a href="mailto:killiandatabase@gmail.com?subject=Hello,%20Killian&body=I'm%20coming%20from%20github!">E-mail</a>
+      <a href="https://www.linkedin.com/in/killiandb/">Linkedin</a>
+    </details> 
+    <p style="margin: 0;">for freelance projects</p>
+  </section>
   
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
