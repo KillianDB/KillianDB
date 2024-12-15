@@ -3,7 +3,7 @@
 
 <section display="flex">
   <details display="inline-block" width="fit-content" margin-right="3px">
-    <summary width="fit-content">Contact me</summary> 
+    <summary style="width:fit-content">Contact me</summary> 
     <a href="mailto:killiandatabase@gmail.com?subject=Hello,%20Killian&body=I'm%20coming%20from%20github!">E-mail</a>
     <a href="https://www.linkedin.com/in/killiandb/">Linkedin</a>
   </details> 
