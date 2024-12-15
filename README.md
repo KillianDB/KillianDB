@@ -3,12 +3,12 @@
 
 <div display="flex" flex-direction="row">
 <p align="center">
-  <details style="display: inline-block;">
+  <details>
     <summary>Contact me</summary> 
    <a href="mailto:killiandatabase@gmail.com?subject=Hello,%20Killian&body=I'm%20coming%20from%20github!" style="text-decoration: none;color:white;font-weight:bold;">email: </a>
   </details> 
 </p>
-   <p style="display: inline-block;">for freelance projects</p>
+   <p>for freelance projects</p>
 </div>
   
 <h3 align="center">Languages and Tools:</h3>
