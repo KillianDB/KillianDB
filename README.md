@@ -68,7 +68,7 @@
   }
 
   .contact-section details {
-    margin-right: 10px;
+    margin-right: 3px;
   }
 
   .contact-section p {
