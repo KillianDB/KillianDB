@@ -1,14 +1,11 @@
 <div align-items="center" width="100%">
   <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=25&center=true&vCenter=true&width=1000&lines=Hello+world,+I%27m+Killian!+%E2%9C%A8%F0%9F%A6%9D"/>
 
-<section  class="contact-section" display="flex">
   <details display="inline-block" width="fit-content" margin-right="3px">
-    <summary style="width:fit-content">Contact me</summary> 
+    <summary style="width:fit-content">Contact me for freelance projects</summary> 
     <a href="mailto:killiandatabase@gmail.com?subject=Hello,%20Killian&body=I'm%20coming%20from%20github!">E-mail</a>
     <a href="https://www.linkedin.com/in/killiandb/">Linkedin</a>
-  </details> 
-   <p display="inline-block" width="fit-content">for freelance projects</p>
-</section>
+  </details>
   
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
@@ -60,20 +57,3 @@
 </a>
 </p>
 </div>
-
-<style>
-  .contact-section {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    gap: 3px;
-  }
-
-  .contact-section details {
-    margin-right: 3px;
-  }
-
-  .contact-section p {
-    margin: 0;
-  }
-</style>
